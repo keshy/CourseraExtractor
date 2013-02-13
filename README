@@ -1,0 +1,10 @@
+============================================================================================
+README - Resource extractor for Coursera
+============================================================================================
+
+This extractor can be used for automatically extracting all course resources from coursera into a location specified by the user. 
+
+Currently this scripts supports Introduction to Astronomy course, ref: https://class.coursera.org/introastro-2012-001/class/index
+
+To set it up you need to install Beautiful Soup which can be found in the /lib folder. The utility script /lib/BeautifulSoup-3.2.1/setup.py can be used to do this.
+
